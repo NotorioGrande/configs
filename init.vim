@@ -1,3 +1,4 @@
+" coisas aleatorias fds
 set number
 syntax on
 set encoding=utf-8
@@ -14,3 +15,6 @@ set copyindent      " copy indent from the previous line
 set expandtab       " tabs are space
 " }}} Spaces & Tabs
 
+" remaps
+inoremap kj <Esc>
+inoremap jk <Esc>
